@@ -1,0 +1,105 @@
+03/19/2018
+
+DFS:
+104. Maximum Depth of Binary Tree
+695. Max Area of Island
+690. Employee Importance
+100. Same Tree
+108. Convert Sorted Array to Binary Search Tree
+101. Symmetric Tree
+110. Balanced Binary Tree
+112. Path Sum
+111. Minimum Depth of Binary Tree
+257. Binary Tree Paths
+
+03/20/2018
+DFS:
+733. Flood Fill
+513. Find Bottom Left Tree Value
+515. Find Largest Value in Each Tree Row
+94. Binary Tree Inorder Traversal
+98. Validate Binary Search Tree
+
+03/21/2018
+DFS:
+114. Flatten Binary Tree to Linked List
+116. Populating Next Right Pointers in Each Node
+117. Populating Next Right Pointers in Each Node II
+102. Binary Tree Level Order Traversal
+113. Path Sum II
+129. Sum Root to Leaf Numbers
+199. Binary Tree Right Side View
+200. Number of Islands
+
+03/22/2018
+DFS
+109. Convert Sorted List to Binary Search Tree
+133. Clone Graph
+332. Reconstruct Itinerary
+337. House Robber III    //dp(dfs)+memorization
+
+03/23/2018
+
+DFS
+207. Course Schedule
+210. Course Schedule II
+394. Decode String
+Tree
+96. Unique Binary Search Trees
+95. Unique Binary Search Trees II
+
+03/26/2018
+Tree
+99. Recover Binary Search Tree
+103. Binary Tree Zigzag Level Order Traversal
+107. Binary Tree Level Order Traversal II
+105. Construct Binary Tree from Preorder and Inorder Traversal
+106. Construct Binary Tree from Inorder and Postorder Traversal
+144. Binary Tree Preorder Traversal
+145. Binary Tree Postorder Traversal
+03/27/2018
+Tree
+173. Binary Search Tree Iterator
+222. Count Complete Tree Nodes
+226. Invert Binary Tree
+230. Kth Smallest Element in a BST
+235. Lowest Common Ancestor of a Binary Search Tree
+236. Lowest Common Ancestor of a Binary Tree
+404. Sum of Left Leaves
+
+03/28/2018
+Tree
+124. Binary Tree Maximum Path Sum
+297. Serialize and Deserialize Binary Tree
+437. Path Sum III
+
+03/29/2018
+BFS
+127. Word Ladder
+Binary Search
+35. Search Insert Position
+69. Sqrt(x)
+
+03/20/2018
+Binary Search
+278. First Bad Version
+367. Valid Perfect Square
+374. Guess Number Higher or Lower
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
