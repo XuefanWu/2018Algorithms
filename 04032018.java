@@ -190,6 +190,24 @@ class Solution {
     }
 }
 
+class Solution {
+    //https://leetcode.com/problems/powx-n/discuss/19563/Iterative-Log(N)-solution-with-Clear-Explanation
+    // e.g. n = 9 = 1001
+    //x^n = x^*(2^3)*x^(2^0), so when the postion is 1, we need to multipy to res
+    public double myPow(double x, int n) {
+        long absN = Math.abs((long)n);
+        double res = 1;
+        while(absN > 0){
+            if((absN & 1) == 1){
+                res  *= x;
+            }
+            absN >>= 1;
+            x *= x;
+        }
+        return n < 0 ? 1/res:res;
+    }
+}
+
 74. Search a 2D Matrix
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
