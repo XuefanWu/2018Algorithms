@@ -80,12 +80,33 @@ Binary Search
 35. Search Insert Position
 69. Sqrt(x)
 
-03/20/2018
+03/30/2018
 Binary Search
 278. First Bad Version
 367. Valid Perfect Square
 374. Guess Number Higher or Lower
 
+04/03/2018
+Binary Search
+4. Median of Two Sorted Arrays
+33. Search in Rotated Sorted Array
+34. Search for a Range
+50. Pow(x, n)
+74. Search a 2D Matrix
+
+04/04/2018
+Binary Search
+81. Search in Rotated Sorted Array II
+153. Find Minimum in Rotated Sorted Array
+
+04/05/2018
+Binary Search
+154. Find Minimum in Rotated Sorted Array II
+162. Find Peak Element
+167. Two Sum II - Input array is sorted
+29. Divide Two Integers
+209. Minimum Size Subarray Sum
+240. Search a 2D Matrix II
 
 
 
