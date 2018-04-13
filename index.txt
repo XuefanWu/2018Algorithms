@@ -57,6 +57,7 @@ Tree
 106. Construct Binary Tree from Inorder and Postorder Traversal
 144. Binary Tree Preorder Traversal
 145. Binary Tree Postorder Traversal
+
 03/27/2018
 Tree
 173. Binary Search Tree Iterator
@@ -109,8 +110,14 @@ Binary Search
 240. Search a 2D Matrix II
 
 
-
-
+04/11/2018
+Binary Search
+378. Kth Smallest Element in a Sorted Matrix
+436. Find Right Interval
+441. Arranging Coins
+454. 4Sum II
+475. Heaters
+658. Find K Closest Elements
 
 
 
