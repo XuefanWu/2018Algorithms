@@ -119,15 +119,26 @@ Binary Search
 475. Heaters
 658. Find K Closest Elements
 
+04/12/2018
+Binary Search
+483. Smallest Good Base
+668. Kth Smallest Number in Multiplication Table
+Two Pointers
+18. 4Sum
+567. Permutation in String
+713. Subarray Product Less Than K
 
+04/13/2018
+Backtracking
+51. N-Queens
+17. Letter Combinations of a Phone Number
+22. Generate Parentheses
 
-
-
-
-
-
-
-
-
+04/14/2018
+Backtracking
+37. Sudoku Solver
+39. Combination Sum
+40. Combination Sum II
+46. Permutations
 
 
