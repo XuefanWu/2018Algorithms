@@ -17,7 +17,7 @@ public class QuickSort{
                 j--;
             }
             // find the first > pivot item from left
-            while(arr[i] < pivot && i < j){
+            while(arr[i] <= pivot && i < j){
                 i++;
             }
             if(i < j){
