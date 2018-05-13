@@ -128,6 +128,19 @@ Two Pointers
 567. Permutation in String
 713. Subarray Product Less Than K
 
+04/13/2018
+Backtracking
+51. N-Queens
+17. Letter Combinations of a Phone Number
+22. Generate Parentheses
+
+04/14/2018
+Backtracking
+37. Sudoku Solver
+39. Combination Sum
+40. Combination Sum II
+46. Permutations
+
 
 04/16/2018
 BackTracking
@@ -175,18 +188,5 @@ Bit Manipulation
 201. Bitwise AND of Numbers Range
 461. Hamming Distance
 389. Find the Difference
-
-04/13/2018
-Backtracking
-51. N-Queens
-17. Letter Combinations of a Phone Number
-22. Generate Parentheses
-
-04/14/2018
-Backtracking
-37. Sudoku Solver
-39. Combination Sum
-40. Combination Sum II
-46. Permutations
 
 
