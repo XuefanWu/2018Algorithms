@@ -313,4 +313,45 @@ Array
 485. Max Consecutive Ones
 
 
+05/17/2018
+Array
+495. Teemo Attacking
+531. Lonely Pixel I
+532. K-diff Pairs in an Array
+
+05/21/2018
+Array
+560. Subarray Sum Equals K
+561. Array Partition I
+
+05/22/2018
+562. Longest Line of Consecutive One in Matrix
+
+05/23/2018
+Array
+565. Array Nesting
+581. Shortest Unsorted Continuous Subarray
+605. Can Place Flowers
+611. Valid Triangle Number
+
+05/29/2018
+Array
+621. Task Scheduler
+358. Rearrange String k Distance Apart
+
+05/30/2018
+Array
+628. Maximum Product of Three Numbers
+643. Maximum Average Subarray I
+644. Maximum Average Subarray II
+
+06/01/2018
+Array
+661. Image Smoother
+667. Beautiful Arrangement II
+526. Beautiful Arrangement
+697. Degree of an Array
+717. 1-bit and 2-bit Characters
+766. Toeplitz Matrix
+
 
