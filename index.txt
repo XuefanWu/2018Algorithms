@@ -354,4 +354,32 @@ Array
 717. 1-bit and 2-bit Characters
 766. Toeplitz Matrix
 
+06/04/2018
+146. LRU Cache
+
+06/05/2018
+//DP
+300. Longest Increasing Subsequence
+
+06/06/2018
+//DP
+62. Unique Paths
+63. Unique Paths II
+64. Minimum Path Sum
+120. Triangle
+
+06/07/2018
+//DP
+70. Climbing Stairs
+55. Jump Game
+45. Jump Game II
+5. Longest Palindromic Substring
+
+06/08/2018
+//DP
+132. Palindrome Partitioning II
+
+
+
+
 
