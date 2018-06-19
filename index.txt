@@ -379,6 +379,39 @@ Array
 //DP
 132. Palindrome Partitioning II
 
+06/11/2018
+5. Longest Palindromic Substring
+139. Word Break
+140. Word Break II
+132. Palindrome Partitioning II
+
+06/12/2018
+718. Maximum Length of Repeated Subarray
+698. Partition to K Equal Sum Subsets
+72. Edit Distance
+115. Distinct Subsequences
+97. Interleaving String
+53. Maximum Subarray
+121. Best Time to Buy and Sell Stock
+
+06/13/2018
+198. House Robber
+10. Regular Expression Matching
+
+06/14/2018
+152. Maximum Product Subarray
+96. Unique Binary Search Trees
+85. Maximal Rectangle
+221. Maximal Square
+
+06/15/2018
+279. Perfect Squares
+312. Burst Balloons
+121. Best Time to Buy and Sell Stock - can only complete one transaction
+122. Best Time to Buy and Sell Stock II - can complete as many transactions as you like - Greedy
+123. Best Time to Buy and Sell Stock III - can complete at most 2 transactions
+303. Range Sum Query - Immutable
+
 
 
 
