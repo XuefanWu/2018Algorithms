@@ -76,45 +76,41 @@ public void selectionSort(int[] arr){
 }
 
 5. Merge Sort
-public void MergeSort(int[] arr, int left, int right){
-    if(left < right){
-        int mid = left+(right-left)/2;
-        MergeSort(arr,left,mid);
-        MergeSort(arr,mid+1,right);
-        Merge(arr,mid,left,right);
-    }
-} 
-public void Merge(int[] arr, int mid, int left, int right){
-    int leftArray = mid-left+1;
-    int rightArray = right-mid;
-    int[] leftArr = new int[leftArray];
-    int[] rightArr = new int[rightArray];
-    //store in temp array
-    for(int i = 0; i < leftArray; i++){
-        leftArr[i] = arr[left+i];
-    }
-    for(int i = 0; i < rightArray; i++){
-        rightArr[i] = arr[mid+i+1];
-    }
-
-    int i = 0, j = 0;
-    int k = left;
-    while(i < leftArray && j < rightArray){
-        if(leftArr[i] <= rightArr[j]){
-            arr[k] = leftArr[i++];
-        }else{
-            arr[k] = rightArr[j++];
+private void mergeSort(int[] nums, int start, int end){
+        if(start<end){
+            int mid = start+(end-start)/2;
+            mergeSort(nums,start,mid);
+            mergeSort(nums,mid+1,end);
+            merge(nums,mid,start,end);
         }
-        k++;
+        
     }
-    //put the remaining element to array
-    if(i < leftArray){
-        arr[k++] = leftArr[i++];
+    private void merge(int[] nums, int mid, int start, int end){
+        int leftLen = mid-start+1;
+        int rightLen = end-mid;
+        int[] left = new int[leftLen];
+        int[] right = new int[rightLen];
+        for(int i = 0; i < leftLen; i++){
+            left[i] = nums[i+start];
+        }
+        for(int i = 0; i < rightLen; i++){
+            right[i] = nums[mid+i+1];
+        }
+        int i = 0, j = 0, k = start;
+        while(i < leftLen && j < rightLen){
+            if(left[i] <= right[j]){
+                nums[k++] = right[j++];
+            }else{
+                nums[k++] = left[i++];
+            }
+        }
+        while( i < leftLen){
+            nums[k++] = left[i++];
+        }
+        while(j < rightLen){
+            nums[k++] = right[j++];
+        }
     }
-    if(j < rightArr){ 
-        arr[k++] = rightArr[j++];
-    }
-}
 
 6. Heap Sort
 // Binary tree: For i layer, the layer at most has 2^i-1 nodes.    
